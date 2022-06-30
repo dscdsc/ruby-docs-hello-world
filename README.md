@@ -1,7 +1,7 @@
 ---
 topic: Ruby on Rails Hello World
 languages:
-  - ruby Power
+  - ruby
 products:
   - Azure App Service
   - Azure Web Apps
